@@ -57,6 +57,7 @@ Make sure to install the following libraries via Library Manager or manually:
   <img src="fig/serial.jpg" alt="serial" style="width:85%; height:auto;"/>
 </p> 
 
+For documentation, visit [my video](https://youtu.be/fPzLdKj2_z8).
 
 ## License
 This project is open-source and free to modify for educational or development purposes.

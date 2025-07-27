@@ -1,8 +1,10 @@
 # Fingerprint Recognition System
 This Arduino-based project uses the **AS608 Fingerprint Sensor** to create a simple and reliable **fingerprint recognition system**. It includes functionality to **register**, **delete**, and **identify fingerprints**, with support for **4x4 keypad**, **LED indicators**, and **buzzer feedback**.
 
-## 📷 Preview
-![project-preview](https://your-image-link.com) <!-- Optional: add an image or GIF of your setup -->
+<p align="center">
+  <img src="fig/hw.jpg" alt="HW" style="width:65%; height:auto;"/>
+</p> 
+
 
 ---
 
@@ -50,10 +52,11 @@ Make sure to install the following libraries via **Library Manager** or manually
 
 ---
 
-## 📸 Sample Output
+## Sample Output
+<p align="center">
+  <img src="serial" alt="serial" style="width:65%; height:auto;"/>
+</p> 
 
-```plaintext
-Please scan your finger...
-Found ID: 28
-Fingerprint recognized.
 
+## License
+This project is open-source and free to modify for educational or development purposes.

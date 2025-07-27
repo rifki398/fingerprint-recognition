@@ -26,7 +26,7 @@ This Arduino-based project uses the **AS608 Fingerprint Sensor** to create a sim
 | 4x4 Matrix Keypad      | Input interface for IDs and commands |
 | Red, Yellow, Green LEDs| Status indicators                |
 | Buzzer                 | Audio feedback                    |
-| Toggle Switch          | Admin mode activation             |
+| Toggle Switch          | Mode switching (admin/user)             |
 | Breadboard & Wires     | For connections                   |
 
 ---

